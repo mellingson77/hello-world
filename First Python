@@ -1,0 +1,7 @@
+name = (input("What is your name?: "))
+print (name + ' Hello there!')
+age = float(input('What is your age?: '))
+if age <= 40:
+    print('Wow, you are just a youngster!')
+else:
+    print('Wow, you are old !')
